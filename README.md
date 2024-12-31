@@ -1,4 +1,6 @@
 # dln2-dkms
+**Note:** This is no longer necessary for PiKVM as `linux-rpi-pikvm==6.6.49-9` now contains the required modules.
+
 dln2 kernel modules for Linux distributions that are lacking those.
 
 ## Installation
